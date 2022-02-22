@@ -1,4 +1,4 @@
-# levestios.github.io
+# levestios.github.io portfolio
 
 * Temporary Landing Page
-* Will update shortly
+* Currently Updating
